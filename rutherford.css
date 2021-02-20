@@ -1,0 +1,48 @@
+body {
+    background-color:ivory;
+    padding: 100px;
+  }
+  
+  h1 {
+    text-align:center;
+    background-color:#7b9e24;
+    padding: 10px;
+  }
+
+  
+  p {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  li {
+    text-align:center;
+    list-style-position:inside;
+    font-size:20px;
+  }
+  
+  #main {
+    margin-left:auto; 
+    margin-right:auto; 
+    display:block;
+  }
+  
+  #frame_2 {
+    margin-left:auto; 
+    margin-right:auto; 
+    display:block;
+    padding-top: 80px;
+  }
+
+  .parent {
+    text-align:center;
+  }
+
+  a {
+      background-color: hotpink;
+      border: 1px solid black;
+      padding: 10px 10px;
+      text-align: center;
+      font-size: 30px;
+  }
+  

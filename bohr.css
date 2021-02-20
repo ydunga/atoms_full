@@ -1,0 +1,69 @@
+body {
+    background-color: ivory;
+    padding:100px;
+  }
+  
+  li {
+    text-align:center;
+    list-style-position:inside;
+  }
+  
+  h1 {
+    text-align:center;
+    background-color: #F13C20;
+    padding: 20px;
+  }
+
+  h2 {
+    text-align:center;
+  }
+  
+  p {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  div {
+    font-size: 20px;
+    text-align:center;
+  }
+
+  object {
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+  }
+
+  table, th,td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: 15px;
+    padding: 5px;
+    background-color: #7b9e24;
+    color: white;
+  }
+  
+  table {
+    margin-left:auto;
+    margin-right:auto;
+  }
+
+  .final_electron {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+  }
+
+  .parent {
+    text-align:center;
+  }
+
+  a {
+      background-color: hotpink;
+      border: 1px solid black;
+      padding: 10px 10px;
+      text-align: center;
+      font-size: 30px;
+  }
+  
+  

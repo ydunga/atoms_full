@@ -1,0 +1,35 @@
+body {
+    background-color: ivory;
+    padding: 80px;
+  }
+  
+  
+  h1 {
+    text-align:center;
+    background-color:#7b9e24;
+    padding: 10px;
+  }
+  
+  .lattice {
+    margin-left: auto; 
+    margin-right: auto; 
+    display:block;
+  
+  }
+  
+  p {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .parent {
+    text-align:center;
+  }
+
+  a {
+      background-color: hotpink;
+      border: 1px solid black;
+      padding: 10px 20px;
+      text-align: center;
+      font-size: 30px;
+  }

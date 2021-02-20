@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g942">
+      <path
+         id="path833"
+         style="fill:#00a7c2;fill-opacity:1;stroke:#000000;stroke-width:9.49438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 90.221779,63.110059 C 81.456326,111.90615 31.719062,141.63602 19.414911,185.16408 8.7090011,228.93025 55.159372,285.44453 99.002992,280.80618 133.92902,281.40813 178.42725,258.14559 188.05507,217.63538 193.587,169.34074 135.27818,144.62583 128.82585,98.042883 119.51567,73.408902 122.10504,34.762084 100.15359,19.684256 97.969643,34.385577 93.485463,48.626803 90.221779,63.110059 Z" />
+      <path
+         id="path841"
+         style="fill:#00cbc2;fill-opacity:1;stroke:none;stroke-width:0.617972px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 106.06703,40.361479 c 0.41511,57.709905 0.57753,116.223481 16.1889,172.280201 4.87306,14.49235 -7.0268,47.33983 -2.33967,50.37352 15.38624,-15.29354 60.34893,-21.90903 46.63616,-49.52503 C 155.97834,179.51228 139.74361,147.50441 122.0803,116.66061 113.09248,92.045523 111.97454,65.67169 106.06703,40.361479 Z" />
+      <path
+         id="path851"
+         style="fill:#00e4c2;fill-opacity:1;stroke:none;stroke-width:0.617972px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 140.92659,177.77521 c 10.68282,8.59259 22.91932,16.38854 29.26938,28.75195 0.85154,9.31566 4.73364,21.19924 -2.28271,28.9722 -7.93421,5.80476 -13.96752,14.65088 -24.33433,16.57024 -6.94633,3.7548 -13.13078,2.04213 -6.85888,-5.34814 4.48126,-7.33993 8.24959,-15.39499 7.34182,-24.19294 -0.88497,-9.25212 2.78918,-19.41188 -2.78151,-27.75329 -2.24893,-7.37576 -12.02616,-18.64317 -11.77089,-22.35179 4.19187,0.9422 7.34974,4.1094 11.41712,5.35177 z" />
+      <path
+         id="path858"
+         style="fill:#f2ebf5;fill-opacity:1;stroke:none;stroke-width:0.617972px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 107.96847,68.950916 c 1.77911,7.887761 7.44838,15.415707 4.84219,23.784307 0.13211,2.394921 -2.25717,8.753987 -2.31032,2.73678 -1.0577,-8.819426 -1.93181,-17.660806 -2.53187,-26.521087 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.7338px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.617972"
+         x="55.151066"
+         y="210.15056"
+         id="text872"
+         transform="scale(1.0153209,0.98491025)"><tspan
+           id="tspan870"
+           x="55.151066"
+           y="210.15056"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.7338px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.617972">H<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.7338px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:sub;stroke-width:0.617972"
+   id="tspan874">2</tspan>0</tspan></text>
+      <path
+         id="path833-2"
+         style="fill:#00a7c2;fill-opacity:1;stroke:#000000;stroke-width:1.33526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 187.72277,74.743695 c -1.20279,7.033457 -8.02769,11.318711 -9.71605,17.592829 -1.46906,6.308424 4.90482,14.454396 10.92099,13.785796 4.79251,0.0867 10.89852,-3.26628 12.21963,-9.105407 0.75909,-6.961172 -7.24198,-10.523567 -8.12735,-17.238008 -1.27753,-3.550731 -0.92222,-9.12127 -3.93439,-11.294585 -0.29967,2.119041 -0.91499,4.171765 -1.36283,6.259375 z" />
+      <path
+         id="path841-7"
+         style="fill:#00cbc2;fill-opacity:1;stroke:none;stroke-width:0.0869095px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 189.89703,71.464726 c 0.0569,8.318282 0.0792,16.752404 2.22144,24.832393 0.66867,2.08892 -0.96422,6.823551 -0.32105,7.260841 2.11128,-2.20441 8.281,-3.15797 6.39937,-7.138535 -1.45098,-4.897554 -3.67867,-9.511152 -6.10244,-13.956975 -1.23329,-3.548003 -1.3867,-7.349515 -2.19732,-10.997724 z" />
+      <path
+         id="path851-8"
+         style="fill:#00e4c2;fill-opacity:1;stroke:none;stroke-width:0.0869095px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 194.68044,91.271482 c 1.46587,1.23853 3.14496,2.362248 4.0163,4.144303 0.11684,1.342745 0.64955,3.055648 -0.31322,4.176031 -1.08873,0.836704 -1.91661,2.111794 -3.33914,2.388444 -0.95317,0.5412 -1.80179,0.29435 -0.94117,-0.77087 0.61492,-1.05798 1.132,-2.219058 1.00743,-3.487184 -0.12146,-1.333577 0.38274,-2.79802 -0.38166,-4.000341 -0.30859,-1.063125 -1.65021,-2.687219 -1.61521,-3.221778 0.57522,0.135726 1.00853,0.59233 1.56667,0.771395 z" />
+      <path
+         id="path858-0"
+         style="fill:#f2ebf5;fill-opacity:1;stroke:none;stroke-width:0.0869095px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 190.15796,75.585593 c 0.24412,1.136948 1.02204,2.222012 0.66442,3.428262 0.0189,0.345208 -0.3097,1.261793 -0.317,0.394486 -0.14513,-1.271229 -0.26509,-2.545632 -0.34742,-3.822748 z" />
+    </g>
+  </g>
+</svg>
